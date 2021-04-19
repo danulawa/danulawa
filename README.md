@@ -1,4 +1,4 @@
-### Helloo Visitor,
+### Hello Visitor,
 
  - I am Danula Wanasinghe 😎😎
  - A Data Science Undergraduate at SLIIT 🎓🎓
